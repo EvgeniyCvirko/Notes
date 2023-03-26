@@ -10,7 +10,7 @@ import {HashRouter} from "react-router-dom";
 
 const container = document.getElementById('root');
 const root = createRoot(container!); // createRoot(container!) if you use TypeScript
-root.render(<Provider store={store}>
+root.render(<Provider  store={store}>
     <HashRouter>
         <App/>
     </HashRouter>
