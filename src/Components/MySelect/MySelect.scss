@@ -1,0 +1,30 @@
+.mySelect {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 20px;
+
+  &__title {
+    font-size: 40px;
+    margin: 0 0 10px 0;
+    color: #787081;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+  }
+}
+
+.react-select-container {
+  width: 500px;
+  color: #fff;
+}
+
+.react-select__control {
+  font-size: 16px;
+}
+
+.react-select__value-container {
+  color: blue;
+}
+
+.react-select__menu-list {
+  color: #111;
+}
+
