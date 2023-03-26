@@ -15,7 +15,7 @@ export const App = () => {
       <footer className="footer">
         <div className="container">
           <div className="footer__row">
-            <div className="footer-text">OOO Ивашин 2023</div>
+            <div className="footer-text">Evgeniy Cvirko 2023</div>
           </div>
         </div>
       </footer>
